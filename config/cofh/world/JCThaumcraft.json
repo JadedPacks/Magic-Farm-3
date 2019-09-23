@@ -14,32 +14,32 @@
 		},
 		"block": [
 			{
-				"name": "Thaumcraft:blockCustomOre:",
+				"name": "Thaumcraft:blockCustomOre",
 				"metadata": 1,
 				"weight":20
 			},
 			{
-				"name": "Thaumcraft:blockCustomOre:",
+				"name": "Thaumcraft:blockCustomOre",
 				"metadata": 2,
 				"weight":20
 			},
 			{
-				"name": "Thaumcraft:blockCustomOre:",
+				"name": "Thaumcraft:blockCustomOre",
 				"metadata": 3,
 				"weight":20
 			},
 			{
-				"name": "Thaumcraft:blockCustomOre:",
+				"name": "Thaumcraft:blockCustomOre",
 				"metadata": 4,
 				"weight":20
 			},
 			{
-				"name": "Thaumcraft:blockCustomOre:",
+				"name": "Thaumcraft:blockCustomOre",
 				"metadata": 5,
 				"weight":10
 			},
 			{
-				"name": "Thaumcraft:blockCustomOre:",
+				"name": "Thaumcraft:blockCustomOre",
 				"metadata": 6,
 				"weight":10
 			},
