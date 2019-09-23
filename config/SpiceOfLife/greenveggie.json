@@ -1,14 +1,13 @@
 {
-    "food": {
-        "oredict": [
-            "listAllgreenveggie"
-        ],
-        "items": [
-        ]
-    },
-    "name": "Green Veggie",
-    "enabled": true,
-    "priority": 0,
-    "blacklist": false,
-    "hidden": false
+	"food": {
+		"oredict": [
+			"listAllgreenveggie"
+		],
+		"items": []
+	},
+	"name": "Green Veggie",
+	"enabled": true,
+	"priority": 0,
+	"blacklist": false,
+	"hidden": false
 }
